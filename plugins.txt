@@ -1,0 +1,5 @@
+command-launcher:latest
+configuration-as-code:latest
+jdk-tool:latest
+script-security:latest
+trilead-api:latest
